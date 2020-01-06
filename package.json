@@ -64,6 +64,12 @@
     "babel-core": "7.0.0-bridge.0"
   },
   "dependencies": {
+    "@material-ui/core": "^3.0.1",
+    "konva": "^2.3.0",
+    "react-dropzone": "^5.0.1",
+    "react-konva": "^1.7.14",
+    "react-scripts": "1.1.5",
+    "superagent": "^3.8.3",
     "@babel/polyfill": "7.4.3",
     "bootstrap": "^4.3.1",
     "chalk": "^2.4.2",
